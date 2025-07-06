@@ -1,9 +1,5 @@
 # 🚀 CyberChain Platform
 
-[![CI/CD Pipeline](https://github.com/your-org/cyberchain-platform/workflows/CI/CD%20Pipeline/badge.svg)](https://github.com/your-org/cyberchain-platform/actions)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=cyberchain-platform&metric=security_rating)](https://sonarcloud.io/dashboard?id=cyberchain-platform)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 A production-ready, enterprise-grade Web3 blockchain platform with quantum-resistant security, built with React, TypeScript, and modern infrastructure.
 
 ## ✨ Features
